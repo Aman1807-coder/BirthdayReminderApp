@@ -1,0 +1,30 @@
+ /* .add {
+    display: block;
+    width: 432px;
+} */
+
+.buttons {
+    position: relative;
+    top: 65px;
+    height: 56px;
+    right: 100px;
+} 
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 20px;
+}
+
+.card {
+    position: relative;
+    right: 190px;
+    top: 100px;
+    box-shadow: 5px;
+    color: black;
+    
+}
+
+.inner {
+    color: black;
+}
